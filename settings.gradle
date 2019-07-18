@@ -1,0 +1,2 @@
+rootProject.name='Twine'
+include ':app'

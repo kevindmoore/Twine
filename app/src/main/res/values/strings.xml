@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twine</string>
+    <string name="edit">Edit</string>
+    <string name="activity">Activity</string>
+    <string name="recurring_deposits">Recurring\nDeposits</string>
+    <string name="monthly_deposits">Monthly Deposits</string>
+    <string name="paused">Paused</string>
+    <string name="activate"><u>Activate</u></string>
+</resources>
